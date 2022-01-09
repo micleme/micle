@@ -9,6 +9,8 @@ public class T {
 		
 		
 		String s = "asda";
+		
+		String a = "ad";
 	}
 
 }
